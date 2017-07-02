@@ -1,0 +1,26 @@
+=== Availability Metrics ===
+{|{{prettytable|additionalStyle=text-align: center;background-color:rgb(255,255,255)}}
+|style="background-color:#C0C0C0" colspan="1" rowspan="3"|Region
+|style="background-color:#C0C0C0" colspan="7" rowspan="1"|Control Plane (goal: 99.95%)
+|style="background-color:#C0C0C0" colspan="7" rowspan="1"|Data Plane (goal: 99.95%)
+|-
+|style="font-size: 0.9em; background-color:#E0E0E0" colspan="3"|Impact Minutes
+|style="font-size: 0.9em; background-color:#E0E0E0" colspan="3"|Availability
+|style="font-size: 0.9em; background-color:#E0E0E0" rowspan="2"|Days since dashboard event
+|style="font-size: 0.9em; background-color:#E0E0E0" colspan="3"|Impact Minutes
+|style="font-size: 0.9em; background-color:#E0E0E0" colspan="3"|Availability
+|style="font-size: 0.9em; background-color:#E0E0E0" rowspan="2"|Days since dashboard event
+|-
+| style="font-size: 0.9em; width:60px;background-color:#E0E0E0" |YTD
+| style="font-size: 0.9em; width:60px;background-color:rgb(220,220,220)" |QTD
+| style="font-size: 0.9em; width:60px;background-color:rgb(220,220,220)" |Week
+| style="font-size: 0.9em; width:60px;background-color:rgb(220,220,220)" |YTD
+| style="font-size: 0.9em; width:60px;background-color:rgb(220,220,220)" |QTD
+| style="font-size: 0.9em; width:60px;background-color:rgb(220,220,220)" |Week
+| style="font-size: 0.9em; width:60px;background-color:rgb(220,220,220)" |YTD
+| style="font-size: 0.9em; width:60px;background-color:rgb(220,220,220)" |QTD
+| style="font-size: 0.9em; width:60px;background-color:rgb(220,220,220)" |Week
+| style="font-size: 0.9em; width:60px;background-color:rgb(220,220,220)" |YTD
+| style="font-size: 0.9em; width:60px;background-color:rgb(220,220,220)" |QTD
+| style="font-size: 0.9em; width:60px;background-color:rgb(220,220,220)" |Week
+|-

@@ -1,0 +1,14 @@
+| %{region}
+|%{controlPlane-im-ytd}
+|%{controlPlane-im-qtd}
+|%{controlPlane-im-wk}
+|%{controlPlane-avb-ytd}
+|%{controlPlane-avb-qtd}
+|%{controlPlane-avb-wk}
+|%{dataPlane-im-ytd}
+|%{dataPlane-im-qtd}
+|%{dataPlane-im-wk}
+|%{dataPlane-avb-ytd}
+|%{dataPlane-avb-qtd}
+|%{dataPlane-avb-wk}
+|-
